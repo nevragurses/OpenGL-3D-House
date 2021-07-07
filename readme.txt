@@ -1,3 +1,5 @@
+
+Giriş seviyesi OPENGL kullanılarak 3D ev çizildi ve aydınlatmalar perspektif, döndürme, çevirme, ölçek özellikleri uygulandı.
 OPENGL ve GLUT kütüphaneleri Ubuntu üzerine kurulmuştur ve kod Linux üzerinde yazılıp derlenmiştir.
 
 Kurulum için komutlar:
